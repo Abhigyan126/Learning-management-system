@@ -21,4 +21,4 @@ This project implements a graphical user interface (GUI) for managing an educati
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/education-database.git
+   git clone https://github.com/Abhigyan126/Learning-management-system.git
