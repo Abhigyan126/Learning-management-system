@@ -13,7 +13,7 @@ This project implements a graphical user interface (GUI) for managing an educati
 ## Screenshots
 
 <img width="862" alt="Screenshot 2024-06-24 at 10 31 40 PM" src="https://github.com/Abhigyan126/Learning-management-system/assets/108809711/4ed06310-0e3c-4359-9d26-567a2c8d8444">
-<img width="966" alt="Screenshot 2024-06-24 at 10 31 22 PM" src="https://github.com/Abhigyan126/Learning-management-system/assets/108809711/aa6aea9c-0309-4292-ba3c-5193cb76bf19">
+<img width="862" alt="Screenshot 2024-06-24 at 10 31 22 PM" src="https://github.com/Abhigyan126/Learning-management-system/assets/108809711/aa6aea9c-0309-4292-ba3c-5193cb76bf19">
 
 
 ## Installation
